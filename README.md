@@ -1,5 +1,5 @@
 # Monotura
-A monolined version of Futura. poorly made with Fontself and Fontforge
+A monolined version of Futura. poorly made with Fontself and Fontforge,
 Designed by Otto de Paula between 2022-23
 
                     GNU GENERAL PUBLIC LICENSE
